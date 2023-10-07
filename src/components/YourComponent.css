@@ -1,0 +1,7 @@
+.background-container {
+    background-image: url('public\giphy.gif'); /* Replace 'your-gif-url.gif' with the actual URL of your GIF */
+    background-size: cover; /* Adjust the size as needed */
+    background-repeat: no-repeat;
+    background-attachment: fixed; /* This keeps the background fixed while scrolling */
+    /* Add more CSS properties to style your background container */
+  }
