@@ -19,7 +19,7 @@ function LandingPage() {
                 </div>
                 <Typography variant={"h5"} style={{marginRight:'2%', marginTop:'15px'}}>Lokesh</Typography>
             </nav>
-            <div style={{backgroundColor:'black',display:'flex'}}>  
+            <div style={{background: 'linear-gradient(to right, orange, white, green)',display:'flex'}}>  
                 <br />
                 <br />
                 <br />
@@ -27,7 +27,7 @@ function LandingPage() {
                 <br />
                 <br />
                 <br />
-                <div style={{ backgroundColor:'black', color:'white', padding:'5px', marginTop:'9%'}}>
+                <div style={{  color:'black', padding:'5px', marginTop:'9%'}}>
                     <Typography variant={"h2"} style={{marginLeft:'80px'}}>Blockchain Developer Guide</Typography>
                     <br />
                     <Typography variant={"h6"} style={{marginLeft:'80px'}}>Learn fundamentals of Blockchain development and how to become a </Typography>
@@ -60,3 +60,12 @@ function LandingPage() {
 }
 
 export default LandingPage;
+
+
+
+
+
+
+
+
+
